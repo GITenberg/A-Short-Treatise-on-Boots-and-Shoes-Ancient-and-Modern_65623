@@ -1,11 +1,16 @@
 _repo: A-Short-Treatise-on-Boots-and-Shoes-Ancient-and-Modern_65623
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65623-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Goater, Walter H
     gutenberg_agent_id: '53434'
     url: http://www.gutenberg.org/2009/agents/53434
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65623#A-Short-Treatise-on-Boots-and-Shoes-Ancient-and-Modern
 gutenberg_issued: '2021-06-16'
 gutenberg_type: Text
 identifiers:
